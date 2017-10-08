@@ -4,9 +4,9 @@
 
 To-do: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Editing with [Prose.io](https://prose.io/)
 
-My projects:
+
+**My projects:**
 
 -[Quick Tipper n' Splitter](/Quick-Tipper-Splitter)
 
-
-
+-[Vue the Cryptos](/VuetheCryptos): Fast cryptocurrencies live viewer, built with Vue.js, Axios and the Coinmarketcap API.
