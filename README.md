@@ -6,7 +6,7 @@ To-do: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-m
 
 My projects:
 
--[Quick Tipper'n'Splitter](/Quick-Tipper-Splitter)
+-[Quick Tipper n' Splitter](/Quick-Tipper-Splitter)
 
 
 
